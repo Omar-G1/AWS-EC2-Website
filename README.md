@@ -6,5 +6,10 @@ Launched an EC2 instance with Ubuntu Server AMI (t2.micro, default VPC/subnet).
 Configured security groups to allow SSH (port 22) and HTTP (port 80).
 Connected to the instance via SSH using a key pair.
 Installed Nginx and created a simple index.html file.
+
+Challenges Faced. 
+SSH issues need to change premison in windows file  
+
 Deployed the website and accessed it at http://13.57.33.94.
+
 
