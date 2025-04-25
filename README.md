@@ -1,5 +1,6 @@
 # AWS-EC2-Website
 A project where I launched an AWS EC2 instance, configured security groups, installed Nginx, and deployed a static website accessible via a public IP.
+https://roadmap.sh/projects/ec2-instance
 
 Steps:
 Launched an EC2 instance with Ubuntu Server AMI (t2.micro, default VPC/subnet).
@@ -11,5 +12,6 @@ Challenges Faced.
 SSH issues need to change premison in windows file  
 
 Deployed the website and accessed it at http://13.57.33.94.
+
 
 
